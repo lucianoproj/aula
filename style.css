@@ -1,0 +1,54 @@
+h1{
+	/*font-style: italic;*/
+	font: italic bold 30px Georgia, serif;
+	color: red;
+}
+
+p{
+	/*isso e um comentario*/
+	/*font-style: bold;*/
+	color: green;
+}
+.negrito {
+	font-style: italic;
+	COLOR:RED;
+	font-size: 20px;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	background: yellow;
+	border-radius:10px;
+}
+
+.desenv {
+	color: green;
+	background: pink;
+	padding-top: 50px;
+	padding-left: 100px;
+	border-radius: 30px;
+	padding-bottom: 50px;
+}
+	
+	
+	
+	
+
+
+	/*cor do texto*/
+	color: green;
+	/*tamanho do texto*/
+	font-size: 40px;
+	/*posicao do conteudo*/
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	/*posicao do texto*/
+	text-align: center;
+	/*arredontar canto do elemento*/
+	border-radius:10px;
+
+
+
+
+
+
